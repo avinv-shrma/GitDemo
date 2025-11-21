@@ -1,0 +1,25 @@
+HTML        HyperText Markup Language
+
+If you want to render any,
+1. Text
+2. Audio
+3. Video
+4. Image
+we use HTML for that. 
+
+
+Tags:
+    <>              Opening tags 
+    </ >            Closing tags
+    < />            Self Closing tags
+
+Elements:
+    <p>lorem epsum arit brussr</P>               
+        The tag and content combined is called Element
+
+Attributes: 
+    <p id="first_para">lorem epsum arit brussr</P> 
+        id="first_para" here is called attribute and gives additional information about the Element
+
+Comments:
+    <p>lorem epsum arit brussr</P> <!-- The comment goes in here; Can use shortcut Cntrl + / -->
