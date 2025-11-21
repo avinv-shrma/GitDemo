@@ -33,12 +33,18 @@ Mandatory Commands:
 
 >> git pull origin main
 >> git status 
-    Checkes the status of all the files and gives back the list which files are present and which are missing on the GitHub
+    Checks the status of all the files and gives back the list which files are present and which are missing on the GitHub
 >> git add filename_goes_here 
-    will push the file to the GitHub Repo
+    will push the file to the GitHub Repo             or we can use the next one
 >> git add . 
+    will push all the files and changes to the existing GitHub Repo
 >> git status
 >> git commit m "Commit Message goes here."
 >> git push
+
+
+
+create a new branch
+git checkout -b "branchName"
 
     
