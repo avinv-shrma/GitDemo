@@ -51,3 +51,6 @@ git checkout -b "branchName"
 switch between branch
 git checkout "branchName"
 
+
+clonning application 
+git clone url_to_the_repo_you_want_to_clone
