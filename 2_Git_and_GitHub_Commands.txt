@@ -47,4 +47,7 @@ Mandatory Commands:
 create a new branch
 git checkout -b "branchName"
 
-    
+
+switch between branch
+git checkout "branchName"
+
