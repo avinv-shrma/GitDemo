@@ -1,0 +1,71 @@
+MEAN Stack and MERN Stack
+M - MongoDB                             DataBase
+E - ExpressJS                           BackEnd
+A - Angular     R - ReactJS             FrontEnd
+N - NodeJS                              BackEnd
+
+Three Pillars
+HTML - HyperText Markup Language
+CSS - Cascading StyleSheet
+JS - JavaScript
+
+MEAN MERN Java FullStack
+
+
+WebDev (Steps)
+1. Building/Developer Teams
+2. Testing Team 
+    - Manual Testers
+    - Automatic Testers
+3. Hosting Team (DevOps Team)
+4. Maintanance Team/Support Team
+
+
+SDLC (Software Development LifeCycle)
+1. Waterfall Model
+2. Agile Model
+3. Spiral Model
+4. Iterative Model
+5. Incremental Model
+6. VShaped Model
+7. RAD (Rapid Application Deplyoment) Model
+
+URL - Uniform Resource Locator
+protocol://subdomain.domainname.tld/path
+https://www.google.com/search?text=What%20is%20human.
+
+
+Protocol: Set of Rules and instructions
+1. http - HyperText Transfer Protocol Secure    - Consistent Handshake
+2. http - HyperText Transfer Protocol           - Consistent Handshake
+3. ftp - File Transfer Protocol                 - Handshake per day / Not Consistent
+4. tcp - Trasnmission Control Protocol
+5. smtp - Simple Mail Transfer Protocol
+6. udp - User Datagram Protocol
+7. IP - Internet Protocol
+
+
+Subdomains: 
+maps.google.com     - maps is subdomain to main domain google.com 
+mail.outlook.com    - mail is subdomain here. 
+
+
+
+TLD (Top Level Domain)
+Amazon.com
+Amazon.in
+Amazon.ai
+
+
+Offline Editors: 
+NotePad
+NotePad++
+Sublime
+VS Code
+OpenBracket
+
+
+Online Editors: 
+Codesense
+OnlineGBD
+CodeSandbox
