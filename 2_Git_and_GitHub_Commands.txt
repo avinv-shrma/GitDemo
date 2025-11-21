@@ -1,0 +1,44 @@
+Git >> Version Control 
+
+        v1
+        v2
+        v3
+    new v4
+    We can quickly sort issues and resolve them heavy timeline
+
+>> It is distributed (OnCloud)
+>> Collaboration
+>> Tracking Changes
+>> Recovery
+
+https://git-scm.com/
+
+GitHub
+GitPod
+GitLabs
+BitBucket
+
+
+>> For First time when need to configuring the GitHub in our System
+git config --global user.name "avinv-sharma"
+git config --global user.email "avinvshrma@gmail.com"
+
+git config --global color.ui auto
+
+
+
+Mandatory Commands: 
+>> git init
+>> git remote add origin https://github.com/avinv-shrma/GitDemo.git"
+
+>> git pull origin main
+>> git status 
+    Checkes the status of all the files and gives back the list which files are present and which are missing on the GitHub
+>> git add filename_goes_here 
+    will push the file to the GitHub Repo
+>> git add . 
+>> git status
+>> git commit m "Commit Message goes here."
+>> git push
+
+    
