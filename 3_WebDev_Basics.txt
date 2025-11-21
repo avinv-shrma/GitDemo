@@ -1,0 +1,40 @@
+Basics of Web Development 
+
+HTML 
+CSS 
+JavaScript
+
+
+index.html
+styles.css
+script.js
+
+url - uniform resource locator
+    https://www.wedevelopment.edu/FullStack
+
+    https:           Protocol
+    WebDev           Domain Name
+    .edu             TLD (top level domain)
+    FullStack        page
+
+Protocol - Set of rules and instructions 
+            >> http         hyper text Transfer protocol
+            >> https        hyper text transfer protocol Secure
+            >> ftp          file Transfer protocol
+            >> tcp          transmission control protocol
+            >> udp          user datagram protocol
+            >> IP           internet protocol
+            >> smtp         simple mail transfer protocol
+
+SSL - Secure Socket Layer (Certification to make an http to https://)
+
+
+
+TLD - Top Level Domains
+    .edu    Education
+    .uk     United kingdom
+    .com    Commercial
+    .in     India
+
+
+    
